@@ -1,0 +1,5 @@
+interface TransportationMode {
+
+    String toBeijing();
+
+}
